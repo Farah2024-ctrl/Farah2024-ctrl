@@ -4,6 +4,7 @@
 - 📫 TECH PROJECTS Business Intelligence Analysis 01/2024 - Present
 
 Airbnb Market Analysis for Manhattan (Nyc Airbnb) [https://github.com/Farah2024-ctrl/Airbnb-Market-Analysis-for-Manhattan-NYC-Airbnb-]
+
 Shopify App Analysis (Power Bi) [https://github.com/Farah2024-ctrl/Shopify-App-Analysis-Power-BI-]
 
 Zomato Customer Analysis Project [https://github.com/Farah2024-ctrl/Zomato-Customer-Analysis-Project-]
