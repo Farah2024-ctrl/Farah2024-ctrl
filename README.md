@@ -15,7 +15,7 @@ Zomato Customer Analysis Project [https://github.com/Farah2024-ctrl/Zomato-Custo
 
   **Programming Languages**: SQL, Python
 
-  **Data Visualization**: Power BI, Tableau
+  **Data Visualization**: Power BI, Tableau, Excel
   
 **Education**
 
